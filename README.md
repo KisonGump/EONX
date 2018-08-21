@@ -20,7 +20,7 @@ EON Reality关联服务器代码仓库：
 
 ## 相关资源
 
-* Github：
+* Github：https://github.com/KisonGump/EONX/blob/master/README.md
 * Gitbook：[https://kaisery.gitbooks.io/rust-book-chinese/content/](https://kaisery.gitbooks.io/rust-book-chinese/content/)
 * EON Reality\(Tyler & Daniel\): 协调制作 & 技术指导
 * QQ群：36635506
